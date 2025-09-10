@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",  // Usar CommonJS para trabajar con Jest
+    "target": "ESNext",    // Compilar a ESNext para compatibilidad
+    "moduleResolution": "Node",
+    "esModuleInterop": true,  // Habilitar interop con ESModules
+    "skipLibCheck": true,
+    "strict": true
+  },
+  "include": ["src//*.ts"]
+}

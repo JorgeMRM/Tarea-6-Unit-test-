@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1757530010283" clover="3.2.0">
+  <project timestamp="1757530010284" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1" elements="51" coveredelements="51" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="tarea.ts" path="C:\Respaldo2\Todas las carpetas\tarea6unittest\src\doman\tarea.ts">
+      <metrics statements="20" coveredstatements="20" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="24" type="cond" truecount="4" falsecount="0"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="22" type="cond" truecount="4" falsecount="0"/>
+      <line num="19" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="25" count="20" type="cond" truecount="4" falsecount="0"/>
+      <line num="27" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="28" count="4" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="32" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="37" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="42" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="48" count="8" type="stmt"/>
+    </file>
+  </project>
+</coverage>
