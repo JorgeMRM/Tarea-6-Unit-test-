@@ -1,3 +1,4 @@
+//doman/tarea.ts
 interface Solicitud {
   score: number;
   moraActiva: boolean;

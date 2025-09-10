@@ -1,4 +1,5 @@
-import { evaluarSolicitud } from '../doman/tarea';
+//tarea.spec.ts
+import { evaluarSolicitud } from '../domain/tarea';
 
 describe('evaluarSolicitud', () => {
   // Pruebas para condiciones de rechazo inmediato
